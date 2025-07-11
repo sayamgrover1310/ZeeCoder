@@ -139,8 +139,7 @@ Perfect for:
 ![image]()
 
 ### Prompt space
-![image](<img width="1024" height="1024" alt="Screenshot" src="https://github.com/user-attachments/assets/6c538ee6-6b9f-4241-acc5-b939f4a7b68a" />
-)
+![image](https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1752221445/pns0ivgjsxpnqlf8ngy9.jpg)
 
 ### Explore Page
 ![image](https://i.ibb.co/whtqM7Vq/explore.jpg)
