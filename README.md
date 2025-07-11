@@ -136,10 +136,11 @@ Perfect for:
 ## Screenshot
 
 ### Landing Page
-![image](https://i.ibb.co/wNTJz2gg/Screenshot-2025-02-03-012759.png)
+![image]()
 
 ### Prompt space
-![image](https://i.ibb.co/YB9Q91DR/Screenshot-2025-02-03-013144.png)
+![image](<img width="1024" height="1024" alt="Screenshot" src="https://github.com/user-attachments/assets/6c538ee6-6b9f-4241-acc5-b939f4a7b68a" />
+)
 
 ### Explore Page
 ![image](https://i.ibb.co/whtqM7Vq/explore.jpg)
